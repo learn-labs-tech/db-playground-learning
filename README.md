@@ -13,6 +13,6 @@ docker compose down
 ## Comando para inicar sesion en el sistema gestor de base datos
 
 ```shell
-docker exec -it mysql mysql -u root -p
+docker exec -it db_mysql mysql -u root -p
 ```
 
